@@ -1,5 +1,5 @@
 def main():
-    print("Hello from actions!")
+    return None
 
 
 if __name__ == "__main__":
